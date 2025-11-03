@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Analytics API
 
 A Django REST Framework API for sales analytics with JWT authentication.
@@ -246,3 +247,7 @@ python manage.py test
 - Uses `select_related()` and `prefetch_related()` for efficient queries
 - Database-level aggregations for analytics
 - Proper indexing on foreign keys
+=======
+# Django-Developer-Test-Assignment-Advanced-Analytics-API-
+Build a small Sales Analytics API using Django REST Framework.  This test checks your ability to design models, write analytics queries, and structure APIs.
+>>>>>>> 1aa16d1ab994d3cafa378911dc735710410797cd
